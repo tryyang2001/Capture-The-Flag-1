@@ -1,0 +1,1 @@
+openssl dgst -sha256 -hmac "CS21072022" text.txt
